@@ -1,0 +1,38 @@
+_repo: Ruhtinattaren-ritari_73785
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Auer, Eino
+    alias: Solmu
+    birthdate: 1898
+    deathdate: 1941
+    gutenberg_agent_id: '55780'
+    url: http://www.gutenberg.org/2009/agents/55780
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Auer
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73785'
+language: fi
+pgterms:marc905: 20240322122457sabatini
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ruhtinattaren ritari
+url: http://www.gutenberg.org/ebooks/73785
