@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '55780'
     url: http://www.gutenberg.org/2009/agents/55780
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Auer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/640
     wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73785#Ruhtinattaren-ritari
 gutenberg_issued: '2024-06-06'
 gutenberg_type: Text
 identifiers:
